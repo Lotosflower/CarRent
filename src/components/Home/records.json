@@ -1,0 +1,28 @@
+
+
+    [
+        {
+            "id": "1",
+            "offer": " Горячее предложение",
+            "info": "Hyundai Accent",
+            "img": "https://avto-rent.by/wp-content/uploads/2022/01/accent.jpg",
+            "price": " 70 BYN/Сутки",
+            "doors": " 4",
+            "seats": " 5",
+            "transmission": "Автоматическая КПП"
+            
+        },
+        {
+            "id": "2",
+            "offer": " Горячее предложение",
+            "info": "Lada Vesta",
+            "img": "https://avto-rent.by/wp-content/uploads/2021/11/Lada-Vesta_2020.jpg",
+            "price": " 47 BYN/Сутки",
+            "doors": " 4",
+            "seats": " 5",
+            "transmission": "Механическая КПП"
+            
+        }
+       
+   ] 
+

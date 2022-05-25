@@ -1,0 +1,80 @@
+
+[
+    {
+        "info": "Audi TT",
+        "img": "https://preview.colorlib.com/theme/carrent/images/ximg_1.jpg.pagespeed.ic.k7vrMKWNFz.webp",
+        "price": "$250/",
+        "Doors": "4",
+        "Seats": "5",
+        "Transmission": "Automatic",
+        "Minium age": "18 years"
+    },
+    {
+        "info": "Range Rover S64 Coupe",
+        "img": "https://preview.colorlib.com/theme/carrent/images/ximg_2.jpg.pagespeed.ic.I71lEQMtE1.webp",
+        "price": "$240/",
+        "Doors": "4",
+        "Seats": "5",
+        "Transmission": "Automatic",
+        "Minium age": "18 years"
+    },
+    {
+        "info": "Aston Martin Coupe",
+        "img": "https://preview.colorlib.com/theme/carrent/images/ximg_3.jpg.pagespeed.ic.E85ieaGIaf.webp",
+        "price": "$280/",
+        "Doors": "4",
+        "Seats": "5",
+        "Transmission": "Automatic",
+        "Minium age": "18 years"
+    },
+    {
+        "info": "GEELY Atlas",
+        "img": "https://static.tildacdn.com/tild6365-3563-4163-a233-363335336533/1atlas.png",
+        "price": "$30/",
+        "Doors": "4",
+        "Seats": "5",
+        "Transmission": "Automatic",
+        "Minium age": "18 years"
+    },
+
+    {
+        "info": "GEELY Emgrand x7 Luxury",
+        "img": "https://static.tildacdn.com/tild3138-3336-4238-b236-663462333934/4mAAAgLTVeA-960.jpg" ,
+        "price": "$35/",
+        "Doors": "4",
+        "Seats": "5",
+        "Transmission": "Automatic",
+        "Minium age": "18 years"
+    },
+
+    {
+        "info": "Chevrolet Captiva",
+        "img": "https://static.tildacdn.com/tild3933-6565-4763-a165-336365616666/_viber_2020-03-09_10.jpg" ,
+        "price": "$37/",
+        "Doors": "4",
+        "Seats": "5",
+        "Transmission": "Automatic",
+        "Minium age": "18 years"
+    },
+    {
+        "info": "Lada Largus",
+        "img":  "https://static.tildacdn.com/tild3536-3933-4164-b630-656364666139/Group_2.jpg" ,
+        "price": "$37/",
+        "Doors": "4",
+        "Seats": "7",
+        "Transmission": "Mechanical",
+        "Minium age": "18 years"
+    },
+
+    {
+        "info": "VW Multivan Bussines",
+        "img":  "https://static.tildacdn.com/tild3333-6566-4130-b231-366138646638/VOLKSWAGEN-T6-1_1.png" ,
+        "price": "$44/",
+        "Doors": "4",
+        "Seats": "6 + 1",
+        "Transmission": "Mechanical",
+        "Minium age": "18 years"
+    }
+  
+]
+ 

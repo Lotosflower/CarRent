@@ -1,0 +1,42 @@
+
+
+    [
+        {
+            "id": "1",
+            "description": "Наша фирма предоставляет современные авто с центральным замком и заправленым кондиционерром!",
+            "advantage": "Преимущество № 1",
+            "img": "https://drive.google.com/uc?export=view&id=1uKvZUovinoC0eUzfwHh0z8hKa8yrYLmk"
+           
+        },
+        {
+            "id": "2",
+            "description": "Быстрое и качественное оформление документов без лишних вопросов!",
+            "advantage": "Преимущество № 2",
+            "img": "https://drive.google.com/uc?export=view&id=1RhZIxKGMVxm3SDGf2UjX1zeCs8SCW3BS"
+        },
+        {
+            "id": "3",
+            "description": "Ключевое качество нашей фирмы, это надежность, качество и уверенность в наших работниках и нашич авто!",
+            "advantage": "Преимущество № 3",
+            "img": "https://drive.google.com/uc?export=view&id=1m97ow_xaif5FN5irP5zIBOuEhHciWg2Y"
+        },
+        {
+            "id": "4",
+            "description": "Все автомобили находятся под охранной системой, поетому за сохранность авто можете не волноватся!",
+            "advantage": "Преимущество № 4",
+            "img": "https://drive.google.com/uc?export=view&id=1kfOTfBcxyu4nLOtRX9pY-Q7hkLXlDC80"
+        },
+        {
+            "id": "5",
+            "description": "В комплект авто входит полный набор сопутствующих пренадлежностей для непредвиденных обстоятельств!",
+            "advantage": "Преимущество № 5",
+            "img": "https://drive.google.com/uc?export=view&id=1hO9x--L2nuCZBKygdZkkINStzB67Qo9r"
+        },
+        {
+            "id": "6",
+            "description": "Наша компания аботает 24/7. И в любой момент готовы предоставить Вам надежный и качественный авто!",
+            "advantage": "Преимущество № 6",
+            "img": "https://drive.google.com/uc?export=view&id=1mouUISq5XplZqlwpWrNI6xz8ssvMmtlc"
+        }
+   ] 
+

@@ -1,0 +1,328 @@
+{
+  "media": [
+    {
+      "id": "1",
+      "title": "Audi TT",
+      "img": "https://preview.colorlib.com/theme/carrent/images/ximg_1.jpg.pagespeed.ic.k7vrMKWNFz.webp",
+      "price": " 250 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "2",
+      "title": "Range Rover S64 Coupe",
+      "img": "https://preview.colorlib.com/theme/carrent/images/ximg_2.jpg.pagespeed.ic.I71lEQMtE1.webp",
+      "price": " 240 ",
+      "doors": " 4",
+      "fuel": " Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+    {
+      "id": "3",
+      "title": "Aston Martin Coupe",
+      "img": "https://preview.colorlib.com/theme/carrent/images/ximg_3.jpg.pagespeed.ic.E85ieaGIaf.webp",
+      "price": " 280 ",
+      "doors": " 4",
+      "fuel": " Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "4",
+      "title": "Toyota Camry",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/10/toyota-camry-2018-img.jpg",
+      "price": " 212 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+
+    {
+      "id": "5",
+      "title": " Skoda Rapid",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/rapid.jpg",
+      "price": " 66 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Механическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+
+    {
+      "id": "6",
+      "title": "BMW 3-series",
+      "img": "https://avto-rent.by/wp-content/uploads/2022/04/bmw-3-300x200-1.jpg",
+      "price": " 166 ",
+      "doors": " 4",
+      "fuel": "Дизель",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "7",
+      "title": "Lada Largus",
+      "img": "https://static.tildacdn.com/tild3536-3933-4164-b630-656364666139/Group_2.jpg",
+      "price": " 45 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Механическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+
+    {
+      "id": "8",
+      "title": "VW Multivan Bussines",
+      "img": "https://static.tildacdn.com/tild3333-6566-4130-b231-366138646638/VOLKSWAGEN-T6-1_1.png",
+      "price": " 110 ",
+      "doors": " 4",
+      "fuel": "Дизель",
+      "transmission": "Механическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "9",
+      "title": "Volkswagen Polo",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/polo2021.jpg",
+      "price": " 55 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Механическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+    {
+      "id": "10",
+      "title": "Renault Sandero Stepway",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/stepway.jpg",
+      "price": " 45 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Механическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+    {
+      "id": "11",
+      "title": " Nissan Almera",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/almera.jpg",
+      "price": " 47 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Механическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+    {
+      "id": "12",
+      "title": " KIO Rio",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/rio2021.jpg",
+      "price": " 57 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+    {
+      "id": "13",
+      "title": " Skoda Octavia",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/octavia.jpg",
+      "price": " 66 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+    {
+      "id": "14",
+      "title": "Lada Granta",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/07/primer.jpg",
+      "price": " 52 ",
+      "doors": "4",
+      "fuel": "Бензин",
+      "transmission": "Механическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+    {
+      "id": "15",
+      "title": "Chevrolet Spark",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/spark.jpg",
+      "price": " 65 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+    {
+      "id": "16",
+      "title": "Mercedes W 212",
+      "img": "https://avto-rent.by/wp-content/uploads/2022/01/w212-2015.jpg",
+      "price": " 185 ",
+      "doors": " 4",
+      "fuel": "Дизель",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "17",
+      "title": "Lexus ES",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/11/lexus.jpg",
+      "price": " 215 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "18",
+      "title": "Mini Cooper S Countryman",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/mini-cooper-s.jpg",
+      "price": " 95 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "19",
+      "title": "Tesla Model 3",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/08/tesla3.jpg ",
+      "price": " 355 ",
+      "doors": " 4",
+      "fuel": "Электро кар",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "20",
+      "title": "Volkswagen Passat",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/08/ff.jpg",
+      "price": " 135 ",
+      "doors": " 4",
+      "fuel": "Дизель",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    },
+    {
+      "id": "21",
+      "title": "Ford Mustang",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/mustang.jpg",
+      "price": " 278 ",
+      "doors": " 4",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "22",
+      "title": "Audi TT",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/07/ish.jpg",
+      "price": " 200 ",
+      "doors": " 2",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "23",
+      "title": "Audi A5 кабриолет ",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/audi-a5-cabrio-otaubht41os970srj41d4zz63use24nvk2tm6q3ucu-1.jpg",
+      "price": " 211 ",
+      "doors": "2",
+      "fuel": "Бензин",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////2AD/1gD/7qX/2QD/1AD///3///r/+d7/++j//fH/+eD/8bb//Oz/76z/7Jj/9tL/6IL/4mH/9cv/5nf/3C3/+Nj//vX/7aD/4E//3kL/4Vj/88D/2yH/9Mb/8bf/3Tj/6pH/42X/5W7/53z/6YrgKBwEAAAEmUlEQVR4nO2Z2ZajOgxFyw6EjJB5JkklVf//iw0GKhg84LXu2937pVeHk9OOEJJQf30BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMZLwI009XYfpRmHxyCNOnfsk0CrMcrYPk42gWpD/9Bsm/ROKVjOJpkOU5LCKr+BGkv+yD5Nv47reUWYjlUsigPFrLTYh8JuUkRL+Tb59kKsQlxHIhxXeIPhIyRJ7KoICPI+FN01QKGZKmVyGeAfJDYX8Lsw9J021hv/VoLkLI03DLRBb6+XD9rxDiNVw+K+QhAf8p9Du35FicOCRNF+UvDMijfWEf+ctdQyqDAj7OC3vhtxRieNRepfw5WH4o7aW/3DVcS/vzYPlK2bsbtLKUg7vyUSgGp+mvknvLXcNSyeVyqH6t9D8uSX3iwWn6ULd8eB7tK/+habqQYQGPlHs+9loKeRxo+apOPLTczWt7X7lr2IQF/FDbdxr04zT6I71UlmL3+WyUaV9IspZ+VMtl+7NMG8u2Wcu+Doi4pi251jySU/s4sta3PE6ZFv17274OiNi07bdfx3cs/xANn4+6OTLZG/QtedR50DPZl7f08Y+eU5PcoLfbjzP36eN1aX/7XOoh9/0q8uvSv3vPWHFmu1706+raZb/r2R+c9nU8ZmebSBon+21kdTTOKzur/cZUc/47+9cnPzKLyNK5jhujXl4sdf1mOYKlSM4s9meL/cNir73pHqK+qbzaS+rIcAbHbDO7GOxzexs12tsn/OXTYP/szi39e+1sQ9Ouqcyds0QvS6TzzXnet3e+pH337A3P10JP/6fvvWytW/ZLjM4h1+SRpyeOu/auNl6w1e1zo/2iHQfpXzZs2pb+pj/XQuxv+pq9v+mvtNOb8+mlHcG7kEr0rPBG5KQlkn+7o+eddzb91uTGZ/aoZ6l32bDVjiC9S66nZu/d7tx1e2/AdXtjSt07D6tvNv3R5VePfKnbe7c7uzD7ecfeVEXezcX6D99OrJE31p40bRpAI/ekaRLp9tJTyDLd3tha6ku7plB70rRJ0vRef9GTpudKdZ7X7dxTmuqMkovbsIA/a/vptfpibjuxMqonQ3eaqmquuvayaufuPKqSVIW2upueNFVJqqbiup27tztVoVYvqlVFMyyPSstm7FK3xb0TUysRWb9OVyniLHfqZ9VDwXxf/sW5zB6rE9SZXLVzZ8DLnyXz6uE77I3LozLvP3PArLzXzmWDaj9/MVjlvnJ31ubscoBypmmZUdHHPvIFfN9+rUlK+14HLS3bXbgIinN1+6vP2eUs7npwl50H9WEpdw3rwr5Vuo5FxF1pWjwDWoAXhq3vLu68yRzy2BW1vJsGqZCOwSqN9/q/eLzErl15L8uK931Hmp7izmvN8hJ3lkfjqLdNSt6Om7ISvblonjvS9NJfgH07mv5W9OrQJHJU02e/96w7T8HENMil9h50M3Q/x/88JqZLd/tadmG4X4n9F85Ml26Dl5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/5R8Ari4ulW3hAAAAAABJRU5ErkJggg=="
+    },
+    {
+      "id": "24",
+      "title": "Volvo C 70",
+      "img": "https://avto-rent.by/wp-content/uploads/2021/05/c70.jpg",
+      "price": " 202 ",
+      "doors": "2",
+      "fuel": "Дизель",
+      "transmission": "Автоматическая",
+      "minimum": " 18 лет",
+      "rating": "https://cdn0.iconfinder.com/data/icons/infographics-2-1/512/4_stars-2-128.png"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Аренда авто за границей: не остаться в дураках",
+      "subtitle": "15 Января 2022",
+      "img": "https://www.avtovzglyad.ru/media/article/vacanza-car-rentals.gr.jpg",
+      "body": " При выборе места получения автомобиля не торопитесь бронировать автомобиль в пункте проката непосредственно в аэропорту прилета. Иногда бывает гораздо дешевле забронировать авто в пункте выдачи в близлежащем или даже соседнем городке, даже с учетом билетов на пригородный транспорт. И это еще один повод бронировать автомобиль заранее. Чаще всего при аренде авто аас обяжут приобрести обязательную страховку и предложат дополнительно расширенную. Обязательная базовая страховка работает примерно как наше ОСАГО, дополнительная — аналогично нашему КАСКО. Обычно прокатные компании включают в обязательную страховку франшизу в размере 500—2000 евро, которая подразумевает, что любой ущерб менее этой суммы возмещает непосредственно арендатор — а это как раз мелкие царапины и вмятины, которые запросто можно «поймать» за рубежом, особенно в небольших городках, где все паркуются «бампер к бамперу».",
+      "body2": "С дополнительной страховкой выходит дороже на 10—25 евро в день, но зато за мелкий ущерб автомобилю платить при возврате машины не придется.                   Условия страховки нужно читать очень внимательно. Например, можно ли с этой страховкой заехать в соседнюю страну на пару дней? Покрывает ли она угон или повреждение днища? Защищает ли она только вас или можно передать управление и товарищу по путешествию? Будьте готовы к тому, что прокатная компания может заблокировать достаточно большую сумму средств на вашей карте на весь период аренды. Без расширенной страховки заблокированная сумма будет больше, чем с ней. Сумма блокировки может составить от 500 до 2000 евро (и еще выше, если выбирать автомобиль класса премиум.                                         ",
+      "body3": "Осмотрите внимательно автомобиль на предмет наличия даже мельчайших царапин, сколов, вмятин. Помните — принимать авто после окончания срока аренды будет уже другой человек, и он не поверит вам на слово, что все так и было. Так что смело «берите за руку» сотрудника проката, который оформляет аренду, идите к автомобилю и со скрупулезностью человека, покупающего подержанный автомобиль, вносите каждую самую мелкую царапину и вмятину на автомобиле в «чек-лист» уже имеющихся повреждений."
+    },
+    {
+      "id": "2",
+      "title": "...и пусть весь мир подождет... Выпейте кофе с нами",
+      "subtitle": "11 Февраля 2022",
+      "img": "http://granvillano.ru/wp-content/uploads/2015/02/10492372_10202689699883932_4388210741138879742_n.jpg",
+      "body": "Коль уж Вы пришли к нам, выпейте с нами чашечку чая или кофе, что вам предпочтительнее. У нас найдется и то и другое. У нас есть специально отведенное местечко для таких дел. Вкусный кофе и ароматный чай со вкусом лесных ягод еще ни одного из наших клиентов не оставлял безразличным к себе. Так же есть у нас не большой выбор выпечки. Пока Ваши родственники или знакомые оформляют договор аренды авто, побудьте с кофе на едине и пусть весь мир подождет...",
+      "body2": " Улыбайтесь, выпивай утреннюю чашку кофе. Ученые выяснили, что одна-две чашки кофе в день повышают настроение и общее самочувствие. За это нужно благодарить допамин – вещество, которое, как считает ученые, ответственно и за наше привыкание к кофейному напитку. Но не увлекайтесь! То же исследование показало, что те, кто выпивает более 2 чашек кофе в день, рискуют узнать, что такое приступы панической атаки. "
+    },
+    {
+      "id": "3",
+      "title": "Кто главнее? Женщина или мужчина за рулем?",
+      "subtitle": "12 Марта 2022",
+      "img": "https://www.b17.ru/foto/uploaded/upl_1487686997_71796.jpg",
+      "body": "Исследование, проведенное в Англии, продемонстрировало, что мужчины чаще женщин создают смертельную угрозу для других участников дорожного движения.",
+      "body2": "На материале статистики по дорожно-транспортным происшествиям с 2005 по 2015 гг. ученые рассчитали сравнительные коэффициенты риска для водителей-мужчин и водителей-женщин по шести категориям транспорта: легковые автомобили, фургоны, грузовики, мотоциклы, автобусы и велосипеды.",
+      "body3": "Оказалось, что по пяти из них мужчины опережают женщин, и весьма заметно. Вероятность, что мужчина за рулем легковушки станет виновником смертельной аварии, выше в два раза, на мотоцикле — в 10 (десять!) раз. Лишь в категории автобусов показатели обоих полов сопоставимы."
+    },
+    {
+      "id": "4",
+      "title": "Сто или ремонт своими руками",
+      "subtitle": "09 Апреля 2022",
+      "img": "https://top-sto.by/storage/garages/images/969bd83e53c010d52cf92315e2abdef5.jpg",
+      "body": "Последнее время для многих владельцев авто существует дилемма, что лучше – ремонт в автосервисе или своими руками. Любая поломка авто – это серьезная проблема, так как без транспортного средства современному человеку сложно обойтись. Надо сказать, что самостоятельный ремонт машин возможен, но есть и проблемы, которые невозможно исправить без помощи автомастера.",
+      "body2": "Да, считается, что простейшие поломки можно устранить без помощи автомобильного мастера. Однако даже элементарная замена покрышки может потребовать значительных усилий, а иногда – и специального оборудования. Это же касается вопросов касательно любых работ с проводкой или механическими неисправностями силового агрегата. В таких случаях без поездки в автосервис обойтись не получится.",
+      "body3": "Тем более, что при замене даже незначительных деталей иногда приходится разбирать дополнительные механизмы, а это требует больше сил, времени и знаний. А еще так возникает риск получения двойного убытка и полного выхода из строя транспортного средства. Конечно, многие решаются на самостоятельный ремонт из-за финансовой выгоды. Однако риск полной потери авто в таком случае повышается в разы."
+    },
+
+    {
+      "id": "5",
+      "title": "Отечественное авто или иномарка",
+      "subtitle": "15 Мая 2022",
+      "img": "https://kolesa-uploads.ru/-/807ad775-df1f-4c7c-8a8f-ba3db25ee50a/lada-vesta-fl-february-front2.jpg",
+      "body": "Итак, отечественные автомобили. Главным их плюсом является цена, которая в разы ниже, чем у их забугорных конкурентов. Чаще всего именно стоимость авто и становится его главным козырем, особенно в том случае, если финансы строго ограничены. Вторым достоинством автомобиля российского производства можно считать простоту ремонта: во-первых, достать запчасть не составляет труда, во-вторых, помочь в ремонте может любой специалист, к тому же за вполне приемлемую  стоимость, в-третьих, высок шанс того, что вы получите помощь даже сломавшись посреди дороги. Третьим плюсом отечественной машины можно считать то, что она неприхотлива, а поэтому всем, кто только начинает свой водительский путь, можно смело советовать наши авто.... Источник: https://отзывавто.рф/article/kakoj-avtomobil-luchshe-otechestvennyj-ili-inomarka",
+      "body2": "Иномарки, занимающие первую строчку в списке желаемых автомобилей, отличаются значительным богатством выбора. Дизайн иномарки одна из тех черт, по которым ее выбирают, не важно Peogeot или Volkswagen, Chevrolet или Mitsubishi – иномарки всегда отличаются продуманным и ярким внешним видом, притягивающим взгляд. Кроме того, зарубежные автомобили куда более надежные и безопасные, нежели наши, а еще обладают таким качеством, как статусность.... Источник: https://отзывавто.рф/article/kakoj-avtomobil-luchshe-otechestvennyj-ili-inomarka",
+      "body3": "И тем не менее, иномарку может позволить себе далеко не  каждый, даже в кредит, она требовательна в эксплуатации, зачастую требовательна в ремонте, ведь не всегда можно найти дорогие оригинальные детали или качественные аналоговые. Хотя, по сравнению с российскими автомобилями ломаются иномарки значительно реже, поэтому тут расход вполне возможно может и сравняться. На иномарки дороже страховка.... Источник: https://отзывавто.рф/article/kakoj-avtomobil-luchshe-otechestvennyj-ili-inomarka"
+    },
+
+    {
+      "id": "6",
+      "title": "Новый автомобиль или подержаный",
+      "subtitle": "19 Июня 2022",
+      "img": "http://nuz.uz/uploads/posts/2020-05/1589541836_photo_2020-05-15_14-16-54.jpg",
+      "body": "В большинстве случаев выбор автомобиля начинается с определения бюджета покупки. При равном бюджете к преимуществам покупки нового автомобиля можно отнести его надежность и наличие гарантии от производителя. Это позволит избежать незапланированных трат в первые несколько лет владения. При покупке автомобиля с пробегом риск внеплановой поломки возрастает в разы, и вся стоимость ремонта, как правило, в полном объеме ложится на плечи владельца. Также при покупке нового автомобиля потребитель может изначально выбрать необходимые ему цвет и комплектацию.",
+      "body2": "Покупка автомобиля с пробегом – это всегда компромисс между годом выпуска, пробегом, состоянием кузова, оснащением, цветом и стоимостью. Найти автомобиль с пробегом, который полностью соответствует требованиям владельца, очень непросто. Покупая новый автомобиль в салоне официального дилера, клиент получает еще и юридическую чистоту автомобиля, а также уверенность в безопасности сделки. Автомобили с пробегом продают не только официальные дилеры, но и перекупщики, которые заманивают потенциальных покупателей ценами ниже рынка и внешним лоском автомобиля, но зачастую будущего владельца ждет разочарование уже в первую неделю после покупки.",
+      "body3": "Определенные преимущества в покупке автомобиля с пробегом также имеются: за стоимость, равную цене нового автомобиля, можно получить автомобиль выше классом, мощнее и с более богатым оснащением. При последующей продаже такого автомобиля владелец теряет гораздо меньше денег, так как основные потери в цене автомобиля происходят в первые три года владения. Какой автомобиль в итоге выбрать – каждый решает сам, но, если машина приобретается на несколько лет и в планы владельца не входят объемные траты на ее содержание, лучше остановить свой выбор на новом автомобиле."
+    }
+  ]
+}

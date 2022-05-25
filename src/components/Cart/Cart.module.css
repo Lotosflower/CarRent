@@ -1,0 +1,281 @@
+.cart {
+  padding: 0px 0 50px 0;
+}
+
+.cart__img {
+  height: calc(100vh - 250px);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../assets/images/services.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.cart__offer {
+  width: 450px;
+  margin: 0 auto;
+  padding-top: 55px;
+  text-align: center;
+}
+
+.cart__offer h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: wheat;
+}
+
+.cart__offer p {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  /* line-height: 36px; */
+  font-size: 20px;
+}
+
+.cart__offer a {
+  color: yellow;
+}
+
+.cart__container {
+  max-width: 1160px;
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 60px;
+}
+
+.cart__top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cart__top p {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+  width: 750px;
+  text-align: center;
+}
+
+.cart__items {
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  margin-top: 50px;
+}
+
+.cart__item {
+  list-style: none;
+  border-radius: 35px;
+  background-color: #f6f5f5;
+  box-shadow: 0px 28px 31px -23px #6e94a0;
+}
+
+.cart__item__img {
+  margin: 0px 0 10px 0;
+}
+
+.cart__item__img img {
+  width: 500px;
+}
+
+.cart__description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: #ddf2ed;
+  width: 500px;
+  padding: 0px 25px 0px 25px;
+  border-radius: 30px;
+}
+
+.cart__description__title {
+  font-size: 22px;
+  font-weight: bold;
+  color: blue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 34px;
+  overflow: hidden;
+}
+
+.cart__description__price {
+  font-size: 22px;
+  color: rgb(136, 51, 51);
+  font-weight: bold;
+}
+
+.cart__description__fuel {
+  font-size: 22px;
+  color: #413382;
+  font-weight: bold;
+}
+
+.cart__description__transmission {
+  font-size: 22px;
+  color: #413382;
+  font-weight: bold;
+}
+
+.cart__description:hover {
+  background-color: darkolivegreen;
+  color: #fff;
+}
+
+.cart__description:hover .cart__description__title,
+.cart__description:hover .cart__description__price,
+.cart__description:hover .cart__description__fuel,
+.cart__description:hover .cart__description__transmission {
+  color: #ffffff;
+}
+
+@media (max-width: 800px) {
+  .cart__offer {
+    width: 320px;
+  }
+
+  .cart__offer h1 {
+    font-size: 22px;
+  }
+
+  .cart__offer p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+
+  .cart__top p {
+    font-size: 18px;
+    width: 500px;
+  }
+
+  .cart__item__img img {
+    width: 400px;
+  }
+
+  .cart__description {
+    width: 400px;
+    padding: 0px 25px 0px 25px;
+  }
+
+  .cart__items {
+    width: 400px;
+
+    margin-bottom: 15px;
+    margin-top: 20px;
+  }
+
+  .cart__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 426px) {
+  .cart__offer {
+    padding-top: 45px;
+    width: 250px;
+    text-align: center;
+  }
+
+  .cart__offer h1 {
+    font-size: 16px;
+  }
+
+  .cart__offer p {
+    font-size: 10px;
+    line-height: 18px;
+  }
+  .cart__top p {
+    font-size: 14px;
+    width: 300px;
+  }
+
+  .cart__item__img img {
+    width: 200px;
+  }
+
+  .cart__description {
+    width: 200px;
+    padding: 0px 25px 0px 25px;
+  }
+
+  .cart__items {
+    width: 200px;
+
+    margin-bottom: 15px;
+    margin-top: 18px;
+  }
+
+  .cart__description__title {
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .cart__description__price {
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .cart__description__fuel {
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .cart__description__transmission {
+    text-align: center;
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 376px) {
+  .cart__offer {
+    width: 170px;
+  }
+
+  .cart__offer h1 {
+    font-size: 12px;
+  }
+
+  .cart__offer p {
+    font-size: 8px;
+    line-height: 14px;
+  }
+
+  .cart__top p {
+    font-size: 12px;
+    width: 240px;
+  }
+
+  .cart__item__img img {
+    width: 180px;
+  }
+
+  .cart__description {
+    width: 180px;
+  }
+
+  .cart__items {
+    width: 180px;
+  }
+
+  .cart__description__title {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .cart__description__price {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .cart__description__fuel {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .cart__description__transmission {
+    text-align: center;
+    font-size: 15px;
+  }
+}
