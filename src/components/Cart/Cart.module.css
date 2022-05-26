@@ -128,6 +128,18 @@
   color: #ffffff;
 }
 
+.cart__button {
+  border-radius: 0 0 30px 30px;
+
+  font-size: 20px;
+  border: 0;
+  background-color: #ddf2ed;
+  width: 500px;
+  background-color: #007cff;
+  color: white;
+  height: 40px;
+}
+
 @media (max-width: 800px) {
   .cart__offer {
     width: 320px;
