@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .cart {
   padding: 0px 0 50px 0;
 }
@@ -130,7 +135,6 @@
 
 .cart__button {
   border-radius: 0 0 30px 30px;
-
   font-size: 20px;
   border: 0;
   background-color: #ddf2ed;
@@ -170,7 +174,6 @@
 
   .cart__items {
     width: 400px;
-
     margin-bottom: 15px;
     margin-top: 20px;
   }
@@ -179,6 +182,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  .cart__button {
+    font-size: 19px;
+    width: 400px;
+    height: 35px;
   }
 }
 
