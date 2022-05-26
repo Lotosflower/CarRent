@@ -46,6 +46,7 @@ export const CartItems = () => {
                     </div>
 
                     <button
+                      className={styles.cart__button}
                       onClick={() => {
                         handleDelete(item.id);
                       }}
