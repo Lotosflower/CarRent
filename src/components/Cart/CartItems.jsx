@@ -35,6 +35,7 @@ export const CartItems = () => {
                     <div className={styles.cart__description__transmission}>
                       КПП: {item.transmission}
                     </div>
+                    <button onClick={() => {}}>Удалить</button>
                   </div>
                 </li>
               </ul>
