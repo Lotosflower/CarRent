@@ -3,7 +3,12 @@ import { useContext } from "react";
 import { Context } from "../Store";
 
 export const CartItems = () => {
-  const { cart } = useContext(Context);
+  const { cart, setCart } = useContext(Context);
+
+  const handleDelete = (idDelete) => {
+    const newDel = cart.filter(({ id }) => id !== idDelete);
+    setCart(newDel);
+  };
 
   return (
     <div className={styles.cart__item}>
@@ -35,7 +40,13 @@ export const CartItems = () => {
                     <div className={styles.cart__description__transmission}>
                       КПП: {item.transmission}
                     </div>
-                    <button onClick={() => {}}>Удалить</button>
+                    <button
+                      onClick={() => {
+                        handleDelete(item.id);
+                      }}
+                    >
+                      Удалить
+                    </button>
                   </div>
                 </li>
               </ul>
