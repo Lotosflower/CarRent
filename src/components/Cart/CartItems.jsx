@@ -40,6 +40,7 @@ export const CartItems = () => {
                     <div className={styles.cart__description__transmission}>
                       КПП: {item.transmission}
                     </div>
+
                     <button
                       onClick={() => {
                         handleDelete(item.id);
