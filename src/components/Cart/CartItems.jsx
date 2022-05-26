@@ -1,5 +1,5 @@
 import styles from "./Cart.module.css";
-import { useContext } from "react";
+import { useContext, useEffect } from "react";
 import { Context } from "../Store";
 
 export const CartItems = () => {
@@ -9,6 +9,10 @@ export const CartItems = () => {
     const newDel = cart.filter(({ id }) => id !== idDelete);
     setCart(newDel);
   };
+
+  useEffect(() => {
+    localStorage.setItem(`cart`, JSON.stringify(cart));
+  }, [cart]);
 
   return (
     <div className={styles.cart__item}>
