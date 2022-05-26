@@ -191,7 +191,7 @@
   }
 }
 
-@media (max-width: 426px) {
+@media (max-width: 425px) {
   .cart__offer {
     padding-top: 45px;
     width: 250px;
@@ -304,5 +304,11 @@
   .cart__description__transmission {
     text-align: center;
     font-size: 15px;
+  }
+
+  .cart__button {
+    font-size: 14px;
+    width: 180px;
+    height: 25px;
   }
 }
