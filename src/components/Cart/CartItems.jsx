@@ -127,9 +127,9 @@ export const CartItems = () => {
                       extra={
                         <Space>
                           <Button onClick={onClose}>Закрыть</Button>
-                          <Button onClick={onClose} type="primary">
+                          {/* <Button onClick={onClose} type="primary">
                             Подтвердить
-                          </Button>
+                          </Button> */}
                         </Space>
                       }
                     >

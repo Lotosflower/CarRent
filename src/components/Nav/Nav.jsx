@@ -2,6 +2,7 @@ import styles from "./Nav.module.css";
 import { Link } from "react-router-dom";
 import { useContext } from "react";
 import { Context } from "../Store";
+import { CarOutlined } from "@ant-design/icons";
 
 export const Nav = () => {
   const { cart } = useContext(Context);
@@ -44,7 +45,15 @@ export const Nav = () => {
             <Link to="/contacts">Контакты</Link>
           </li>
           <li>
-            <Link to="/cart">Корзина {getCartCount()}</Link>
+            <Link to="/cart">
+              <CarOutlined
+                style={{
+                  color: "black",
+                  marginRight: "10px",
+                }}
+              />
+              {getCartCount()}
+            </Link>
           </li>
         </ul>
       </div>
