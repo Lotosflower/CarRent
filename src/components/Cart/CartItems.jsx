@@ -118,7 +118,7 @@ export const CartItems = () => {
 
                     <Drawer
                       title="Аренда авто"
-                      width={450}
+                      width={300}
                       onClose={onClose}
                       visible={visible}
                       bodyStyle={{
