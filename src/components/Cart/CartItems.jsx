@@ -99,16 +99,23 @@ export const CartItems = () => {
                     <div className={styles.cart__description__transmission}>
                       КПП: {item.transmission}
                     </div>
+                    <div className={styles.cart__buttons}>
+                      <button
+                        className={styles.cart__button__delete}
+                        onClick={() => {
+                          handleDelete(item.id);
+                        }}
+                      >
+                        Удалить
+                      </button>
+                      <button
+                        className={styles.cart__button__order}
+                        onClick={showDrawer}
+                      >
+                        Заказать
+                      </button>
+                    </div>
 
-                    <button
-                      className={styles.cart__button}
-                      onClick={() => {
-                        handleDelete(item.id);
-                      }}
-                    >
-                      Удалить
-                    </button>
-                    <button onClick={showDrawer}>Заказать</button>
                     <Drawer
                       title="Аренда авто"
                       width={450}

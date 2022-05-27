@@ -133,13 +133,28 @@
   color: #ffffff;
 }
 
-.cart__button {
-  border-radius: 0 0 30px 30px;
+.cart__buttons {
+  display: flex;
+}
+
+.cart__button__order {
+  border-radius: 0px 10px 10px 0;
   font-size: 20px;
   border: 0;
   background-color: #ddf2ed;
-  width: 500px;
-  background-color: #007cff;
+  width: 250px;
+  background-color: green;
+  color: white;
+  height: 40px;
+}
+
+.cart__button__delete {
+  border-radius: 10px 0 0 10px;
+  font-size: 20px;
+  border: 0;
+  background-color: #ddf2ed;
+  width: 250px;
+  background-color: rgb(191, 92, 92);
   color: white;
   height: 40px;
 }
@@ -184,7 +199,7 @@
     align-items: center;
   }
 
-  .cart__button {
+  .cart__button__delete {
     font-size: 19px;
     width: 400px;
     height: 35px;
@@ -247,7 +262,7 @@
     font-size: 18px;
   }
 
-  .cart__button {
+  .cart__button__delete {
     font-size: 16px;
     width: 300px;
     height: 30px;
@@ -306,7 +321,7 @@
     font-size: 15px;
   }
 
-  .cart__button {
+  .cart__button__delete {
     font-size: 14px;
     width: 180px;
     height: 25px;
