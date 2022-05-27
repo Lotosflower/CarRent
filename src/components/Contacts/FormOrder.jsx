@@ -7,7 +7,7 @@ function success(values) {
   console.log(values);
   Modal.success({
     content: (
-      <div className={styles.form__madal}>
+      <div className={styles.form__modal}>
         <p>Ваша заявка принята. Ожидайте, мы Вам перезвоним</p>
         <p>Имя: {values.name}</p>
         <p>Фамилия: {values.secondname}</p>
