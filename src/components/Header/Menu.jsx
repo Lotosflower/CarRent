@@ -90,10 +90,11 @@ const _Menu = () => {
         top: 70,
         left: 0,
         bottom: 800,
-        height: 45,
-        width: 175,
+        height: 55,
+        width: 275,
         zIndex: 150,
-        fontSize: 18,
+        fontSize: 24,
+
         // backgroundColor: "goldenrod",
       }}
       items={items}
